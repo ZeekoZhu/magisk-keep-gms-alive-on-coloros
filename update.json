@@ -1,6 +1,6 @@
 {
-  "version": "v3.6",
-  "versionCode": 18,
-  "zipUrl": "https://raw.githubusercontent.com/Zackptg5/MMT-Extended/install.zip",
-  "changelog": "https://raw.githubusercontent.com/Zackptg5/MMT-Extended/changelog.md"
+  "version": "0.2",
+  "versionCode": 1,
+  "zipUrl": "https://raw.githubusercontent.com/ZeekoZhu/magisk-keep-gms-alive-on-coloros/repleases/download/0.2/magisk-keep-gms-alive-on-coloros-0.2.zip",
+  "changelog": "https://raw.githubusercontent.com/ZeekoZhu/magisk-keep-gms-alive-on-coloros/changelog.md"
 }
